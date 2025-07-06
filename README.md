@@ -21,8 +21,8 @@
 파일 내용:
 
 ```markdown
-- **이름**: 홍길동
-- **이메일**: hong@example.com
+- 이름: 홍길동
+- 이메일: hong@example.com
 ```
 
 5. 스테이징 & 커밋
